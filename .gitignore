@@ -1,5 +1,6 @@
 #virtual enviroment
 venv/
+static/
 
 #Flask
 .webassests-cache
@@ -9,3 +10,4 @@ venv/
 __pycache__/
 *.py[cod]
 *$py.class
+digitalOcean*
